@@ -1,0 +1,7 @@
+print('PPPP ')
+print('P   P')
+print('P   P')
+print('PPPP ')
+print('P')
+print('P')
+print('P')
