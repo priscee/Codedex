@@ -38,7 +38,7 @@ else:
     print("Player: 🖖")
 
 #===Computer===#
-computer = random.randint(0, 5)
+computer = random.randint(1, 5)
 
 if computer == 1:
     print("Computer: ✊")
@@ -66,13 +66,13 @@ elif player == 1 and computer == 3:
 elif player == 1 and computer == 4:
     print("You Win! You crushed Lizard!")
 elif player == 1 and computer == 5:
-    print("You Lose! You got vaporized")
+    print("You Lose! You got vaporized!")
 
 #player = 2 🖐️
 if player == 2 and computer == 1:
     print("You Win! You covered rock!")
 elif player == 2 and computer == 3:
-    print("You Lose! You got cut")
+    print("You Lose! You got cut!")
 elif player == 2 and computer == 4:
     print("You Lose! You got eaten!")
 elif player == 2 and computer == 5:
@@ -82,7 +82,7 @@ elif player == 2 and computer == 5:
 if player == 3 and computer == 1:
     print("You Lose! You got broken!")
 elif player == 3 and computer == 2:
-    print("You Won! You cut paper")
+    print("You Won! You cut paper!")
 elif player == 3 and computer == 4:
     print("You Won! You beat lizard!")
 elif player == 3 and computer == 5:
@@ -96,17 +96,17 @@ elif player == 4 and computer == 2:
 elif player == 4 and computer == 3:
     print("You Lose! You got beaten!")
 elif player == 4 and computer == 5:
-    print("You Win! You poison spock!")
+    print("You Win! You poisoned spock!")
 
 #player = 5 🖖
 if player == 5 and computer == 1:
     print("You Win! You vaporized rock!")
 elif player == 5 and computer == 2:
-    print("You Lose! You got disproved")
+    print("You Lose! You got disproved!")
 elif player == 5 and computer == 3:
-    print("You Win! You smashed scissors")
+    print("You Win! You smashed scissors!")
 elif player == 5 and computer == 4:
-    print("You Lose! You got poison")
+    print("You Lose! You got poison!")
 
 print("\n")
 

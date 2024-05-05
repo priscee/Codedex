@@ -24,7 +24,7 @@ else:
     print("Player: ✌️")
 
 #===Computer===#
-computer = random.randint(0, 3)
+computer = random.randint(1, 3)
 
 if computer == 1:
     print("Computer: ✊")
