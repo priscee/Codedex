@@ -3,7 +3,7 @@
 import random
 
 def fortune():
-  fortune = random.randint(0, 7)
+  fortune = random.randint(1, 7)
 
   if fortune == 1:
     print("Don't pursue happiness – create it.")
