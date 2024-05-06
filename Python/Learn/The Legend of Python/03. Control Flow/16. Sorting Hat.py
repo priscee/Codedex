@@ -42,7 +42,7 @@ else:
   print('Wrong input.')
 
 #===Question 3===#
-print('\nQ3) Which kind of instrucment most pleases your ear?\n')
+print('\nQ3) Which kind of instrument most pleases your ear?\n')
 print('\t1) The violin\n')
 print('\t2) The trumpet\n')
 print('\t3) The piano\n')
