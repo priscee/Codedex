@@ -20,7 +20,7 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 
 ### $\textcolor{olive}{\textsf{Intermediate Python}}$
 1. [Data Structures](https://github.com/priscee/Codedex/tree/main/Python/Learn/Intermediate%20Python/01.%20Data%20Structures)
-2. File I/O
+2. [File I/O](https://github.com/priscee/Codedex/tree/main/Python/Learn/Intermediate%20Python/02.%20File%20I%3AO)
 3. Functional Programming
 4. Testing
 
