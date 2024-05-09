@@ -1,0 +1,5 @@
+import numpy as np
+
+nyc_population = np.array([19571216, 19673200, 19854526, 20104710, 19463131, 19544098, 19593849, 19636391, 19657321, 19653431, 19626488])
+
+print(nyc_population[10] - nyc_population[0])

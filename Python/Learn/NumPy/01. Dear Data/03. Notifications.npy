@@ -1,0 +1,3 @@
+import numpy as np
+
+phone_notifications = np.array([174, 170, 116, 91, 49, 84, 149])
