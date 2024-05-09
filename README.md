@@ -21,8 +21,12 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 ### $\textcolor{olive}{\textsf{Intermediate Python}}$
 1. [Data Structures](https://github.com/priscee/Codedex/tree/main/Python/Learn/Intermediate%20Python/01.%20Data%20Structures)
 2. [File I/O](https://github.com/priscee/Codedex/tree/main/Python/Learn/Intermediate%20Python/02.%20File%20I%3AO)
-3. Functional Programming
-4. Testing
+3. [Functional Programming](https://github.com/priscee/Codedex/tree/main/Python/Learn/Intermediate%20Python/03.%20Functional%20Programming)
+4. [Testing](https://github.com/priscee/Codedex/tree/main/Python/Learn/Intermediate%20Python/04.%20Testing)
+
+### $\textcolor{olive}{\textsf{NumPy}}$
+1. [Dear Data](https://github.com/priscee/Codedex/tree/main/Python/Learn/NumPy/01.%20Dear%20Data)
+2. [Basic Operations](https://github.com/priscee/Codedex/tree/main/Python/Learn/NumPy/02.%20Basic%20Operationshttps://github.com/priscee/Codedex/tree/main/Python/Learn/NumPy/02.%20Basic%20Operations)
 
 #
 **#30NitesOfCode:** [Check out my progress!](https://www.codedex.io/@genemod/30-nites-of-code)  
