@@ -3,6 +3,13 @@ Let's embark on my coding journey together on Codédex! 🦄
 
 You'll get to witness the projects I've completed for each syllabus. I hope you'll find them enjoyable and beneficial as well.
 
+<!--codèdex pet-->
+<h1></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=cod%C3%A8dex+pet" alt="Typing SVG" /></a>
+
+<p align="center">
+   <a href="https://www.codedex.io/@genemod/30-nites-of-code/"><img src="https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" alt="Codedex Pet GIF"></a>
+</p>
 
 ## $\textcolor{orange}{\textsf{Python}}$
 
@@ -27,7 +34,3 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 ### $\textcolor{olive}{\textsf{NumPy}}$
 1. [Dear Data](https://github.com/priscee/Codedex/tree/main/Python/Learn/NumPy/01.%20Dear%20Data)
 2. [Basic Operations](https://github.com/priscee/Codedex/tree/main/Python/Learn/NumPy/02.%20Basic%20Operationshttps://github.com/priscee/Codedex/tree/main/Python/Learn/NumPy/02.%20Basic%20Operations)
-
-#
-**#30NitesOfCode:** [Check out my progress!](https://www.codedex.io/@genemod/30-nites-of-code)  
-  ![@genemod #30NitesOfCode](https://www.codedex.io/api/petStatus?user=genemod)
