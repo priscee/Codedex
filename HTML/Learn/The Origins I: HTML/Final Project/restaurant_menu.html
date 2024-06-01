@@ -8,205 +8,264 @@
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Pacifico&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
         
         <style>
-            h1 {
-                color: black;
-                font-family: "Pacifico", sans;
-                font-weight: 400;
-                font-size: xxx-large;
+            body {
                 text-align: center;
+                margin: 0px;
+            }
+
+            .header {
+                height: 120px;
+                width: 100%;
+                background-image: url(./Images/coffee-cafe.png);
+                text-align: center;
+                position: fixed;
+                top: 0px;
+                z-index: 1;
+            }
+
+            h1 {
+                font-family: Pacifico, serif;
+                font-size: 60px;
+                color: #ffffff;
+                vertical-align: middle;
+                text-align: center;
+                margin: 0px;
+
             }
 
             h2 {
-                color: black;
-                text-transform: uppercase;
-                font-family: "Courier Prime", serif;
-                font-size: xx-large;
-                font-weight: 200; 
-                text-align: center;               
+                font-family: Pacifico, serif;
+                font-size: 30px;
+                font-weight: 300;
             }
 
             h3 {
-                color: black;
-                font-family: "Raleway", sans-serif;
+                font-family: Pacifico, serif;
+                font-size: 20px;
+                font-weight: 100;
+            }
+
+            h4 {
+                font-family: 'Roboto Mono', monospace;
+                font-size: 15px;
+                font-weight: 100;
+            }
+
+            p, .menu-name, .specialrequest, td input, .contact-details {
+                font-family: 'Roboto Mono', monospace;
+                font-size: 15px;
                 font-weight: 200;
-                font-size: medium;
+            }
+
+            .menu-form thead, .contact-title {
+                font-family: Pacifico, serif;
+                font-size: 20px;
+                font-weight: 100;
+            }
+
+            .navigation {
+                margin-top: 140px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-bottom: 40px;
                 text-align: center;
+                border-bottom: 1px dotted gray;
             }
 
-            article {
-                color: black;
-                font-family: "Roboto Mono", sans-serif;
-                font-size: x-small;
-                font-weight: 200;
+            .navigation ul {
                 text-align: center;
-            }
-
-            header {
-                color: white;
-                background-color: #6E260E;
-                padding: 10px 0;
-            }
-
-            * {
-            margin: 0;
-            padding: 0;
-            }
-
-            .imgbox {
-                display: grid;
                 height: 100%;
             }
 
-            .center-fit {
+            .navigation a li {
+                font-family: 'Roboto Mono', monospace;
+                font-size: 20px;
+                text-transform: uppercase;
+                text-decoration: none;
+                list-style: none;
+                display: inline;
+                padding: 20px;
+                vertical-align: middle;
+                color: #000000;
+            }
+            
+            .navigation a li:hover {
+                color: brown;
+                cursor: pointer;
+            }
+
+            .coffee-container {
+                display: inline-flex;
                 max-width: 100%;
-                max-height: 100vh;
-                margin: auto;
+                height: auto;
+                flex-wrap: wrap;
+                align-items: center;
+                justify-content: center;
+                border-bottom: 1px dotted gray;
             }
 
-            nav {
-                margin: 5px 0;
+            .coffee-panel {
+                padding: 10px 10px;
+            }
+
+            .coffee-panel img {
+                height: 100px;
+                padding: 10px 5px;
+            }
+
+            .order-container {
+                display: table;
+                max-width: 100%;
+                height: auto;
                 text-align: center;
+                align-items: center;
+                justify-content: center;
+                margin: 10px auto;
             }
 
-            nav a {
-                color: white;
-                text-transform: uppercase;
-                font-family: "Roboto Mono", sans-serif;
-                font-weight: 700;
-                font-size: large;
-                text-align:center;
-            }
-
-            form {
+            .contact-container {
                 text-align: center;
+                vertical-align: middle;
+                margin-top: 20px;
+                display: table;
+                max-width: 100%;
+                height: auto;
             }
 
-            .center {
-                margin-left: auto;
-                margin-right: auto;
+            table {
+                border-collapse: collapse;
             }
 
-            th {
-                color: black;
-                text-decoration: none;
-                text-transform: uppercase;
-                font-family: "Roboto Mono", sans-serif;
-                font-weight: 700;
-                font-size: large;
-                text-align: center; 
+            table.menu-form td, table.menu-form th {
+                border: 1px dotted black;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+            table tr:first-child th {
+                border-top: 0;
+            }
+            table tr:last-child td {
+                border-bottom: 0;
+            }
+            table tr td:first-child, table tr th:first-child {
+                border-left: 0;
+            }
+            table tr td:last-child, table tr th:last-child {
+                border-right: 0;
             }
 
-            .order-title {
-                color: black;
-                text-decoration: none;
-                text-transform: uppercase;
-                font-family: "Roboto Mono", sans-serif;
-                font-weight: 700;
-                font-size: large;
-                text-align: center;
-            }
-
-            .specialrequest {
-                color: black;
-                font-family: "Raleway", sans-serif;
-                font-weight: 200;
-                font-size: medium;
-                text-align: center;
-                padding: 10px 0;   
+            #order-form {
+                border-bottom: 1px dotted gray;
             }
 
             footer {
+                display: flex;
+                height: 40px;
+                width: 100%;
+                background-image: url(./Images/coffee-cafe.png);
+                bottom: 0px;
+                justify-content: center;
+                align-items: center
+            }
+
+            footer p {
+                font-family: 'Roboto Mono', monospace;
+                font-size: 15px;
                 color: white;
-                font-family: "Raleway", sans-serif;
-                font-weight: 100;
-                font-size: small;
-                text-align: center;
-                background-color: #6E260E;
-                padding: 10px 0;
+                margin: auto;
             }
         </style>
     </head>
-    <body>
-        <h1>mama cafe</h1>
-        <div class="imgbox">
-            <img class="center-fit" src="Images/coffee-cafe.png" alt="coffee cafe">
-        </div>
-        <header>
-            <nav>
-                <a href="#menu">Menu </a>
-                <a href="#placeorder"> Place Your Order</a>
-            </nav>
-        </header>
-        <main>
-            <br>
-            <section id="menu">
-                <h2>Coffee</h2>
-                    <ul class="order-title">
-                        <li>Espresso</li>
-                            <div>
-                                <article>simple. concentrated short black.</article>
-                                <h3>$3.00</h3>
-                            </div>
-                            <br>
-                        <li>Americano</li>
-                            <div>
-                                <article>breakfast. water added to espresso.</article>
-                                <h3>$3.00</h3>
-                            </div>
-                            <br>
-                        <li>Latte</li>
-                            <div>
-                                <article>introduction. less acid and bitter with milk.</article>
-                                <h3>$4.00</h3>
-                            </div>
-                            <br>
-                        <li>Cappuccino</li>
-                            <div>
-                                <article>creamy. foamy milk added to latte.</article>
-                                <h3>$4.00</h3>
-                            </div>
-                            <br>
-                        <li>Piccolo</li>
-                            <div>
-                                <article>mini. a smaller version of cappuccino, richer. </article>
-                                <h3>$3.50</h3>
-                            </div>
-                            <br>
-                        <li>Mocha</li>
-                            <div>
-                                <article>hybrid. flat white with chocolate and whipped</article>
-                                <h3>$4.00</h3>
-                            </div>
-                    </ul>
-                
-                <br><br>
 
+    <body>
+        <div class="header">
+            <h1>mama cafe</h1>
+        </div>
+
+        <div class="navigation">
+            <ul>
+                <a href="#menu"><li>Menu</li></a>
+                <a href="#order-form"><li>Place Order</li></a>
+            </ul>
+        </div>
+
+        <main>
+            <section id="menu">
+                <div class="coffee">
+                    <h2>Coffee</h2>
+                </div>
+
+                <div class="coffee-menu">
+                    <div class="coffee-container">
+                        <article class="coffee-panel">
+                            <img src="./Images/espresso.png">
+                            <h3>Espresso</h3>
+                            <p>simple. concentrated short black.</p>
+                            <h4>$3.00</h4>
+                        </article>
+
+                        <article class="coffee-panel">
+                            <img src="./Images/americano.png">
+                            <h3>Americano</h3>
+                            <p>morning. espresso with water.</p>
+                            <h4>$3.00</h4>
+                        </article>
+
+                        <article class="coffee-panel">
+                            <img src="./Images/latte.png">
+                            <h3>Latte</h3>
+                            <p>intro. espresso with milk.</p>
+                            <h4>$4.00</h4>
+                        </article>
+
+                        <article class="coffee-panel">
+                            <img src="./Images/cappuccino.png">
+                            <h3>Cappuccino</h3>
+                            <p>creamy. foamy milk with latte.</p>
+                            <h4>$4.00</h4>
+                        </article>
+
+                        <article class="coffee-panel">
+                            <img src="./Images/mocha.png">
+                            <h3>Mocha</h3>
+                            <p>hybrid. flat with choco and whipped</p>
+                            <h4>$4.50</h4>
+                        </article>
+                    </div>
+                </div>
             </section>
 
-            <section id="placeorder">
-                <h2>Place Your Order</h2>
-                    <form class="center">
-                        <table class="center">
+            <section id="order-form">
+                <div>
+                    <h2>Place Your Order</h2>
+                </div>
+
+                <div class="order-container">
+                    <form>
+                        <table class="menu-form">
                             <thead>
                                 <tr>
                                     <th>
-                                          Item 
+                                            Item 
                                     </th>
                                     <th>
-                                          Quantity 
+                                            Quantity 
                                     </th>
                                     <th>
-                                          Additions 
+                                            Additions 
                                     </th>
                                 </tr>
                             </thead>
+
                             <tbody>
                                 <!--Espress-->
                                 <tr>
-                                    <td class="order-title">Espresso</td>
+                                    <td class="menu-name">Espresso</td>
                                     <td>
                                         <input type="number" min="1" max="10">
                                     </td>
@@ -216,7 +275,7 @@
                                 </tr>
                                 <!--Americano-->
                                 <tr>
-                                    <td class="order-title">Americano</td>
+                                    <td class="menu-name">Americano</td>
                                     <td>
                                         <input type="number" min="1" max="10">
                                     </td>
@@ -226,7 +285,7 @@
                                 </tr>
                                 <!--Latte-->
                                 <tr>
-                                    <td class="order-title">Latte</td>
+                                    <td class="menu-name">Latte</td>
                                     <td>
                                         <input type="number" min="1" max="10">
                                     </td>
@@ -238,7 +297,7 @@
                                 </tr>
                                 <!--Cappuccino-->
                                 <tr>
-                                    <td class="order-title">Cappuccino</td>
+                                    <td class="menu-name">Cappuccino</td>
                                     <td>
                                         <input type="number" min="1" max="10">
                                     </td>
@@ -250,7 +309,7 @@
                                 </tr>
                                 <!--Piccolo-->
                                 <tr>
-                                    <td class="order-title">Piccolo</td>
+                                    <td class="menu-name">Piccolo</td>
                                     <td>
                                         <input type="number" min="1" max="10">
                                     </td>
@@ -262,7 +321,7 @@
                                 </tr>
                                 <!--Mocha-->
                                 <tr>
-                                    <td class="order-title">Mocha</td>
+                                    <td class="menu-name">Mocha</td>
                                     <td>
                                         <input type="number" min="1" max="10">
                                     </td>
@@ -272,22 +331,21 @@
                                         <input type="radio"> + $1.00 Almond Milk <br>
                                     </td>
                                 </tr>
-                            </tbody>
-                            <tfooter>
+                                <!--Special Request-->
                                 <td colspan="3">
                                     <label class="specialrequest">Special Request</label>
                                     <br>
                                     <textarea maxlength="250"></textarea>
                                 </td>
-                            </tfooter>
+                            </tbody>
                         </table>
-                        <br><br>
 
-                        <table class="center">
+                        <table class="contact-form">
                             <thead>
-                                <th colspan="2" class="order-title">Contact Details</th>
+                                <th colspan="2" class="contact-title">Contact Details</th>
                             </thead>
-                            <tbody class="order-title">
+
+                            <tbody class="contact-details">
                                 <tr>
                                     <td>First Name:</td>
                                     <td>
@@ -307,18 +365,21 @@
                                     </td>
                                 </tr>
                             </tbody>
+
                         </table>
+                        
                         <br><br>
-                            
-                        <div>
+                                
+                        <div class="checkout">
                             <input type="submit" value="Go To Checkout"/>
                         </div>
                     </form>
-                <br><br>
+                </div>
             </section>
         </main>
+
         <footer>
-            Made with Love ♡ by gene_mod Codèdex | Copyright © 2024 mama cafe | All rights reserved. 
+            <p>Made with Love ♡ by gene_mod Codèdex | Copyright © 2024 mama cafe | All rights reserved.</p>
         </footer>
     </body>
 </html>
