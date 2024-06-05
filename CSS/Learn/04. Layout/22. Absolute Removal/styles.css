@@ -1,0 +1,15 @@
+header {
+    position: absolute;
+    width: 100%;
+  }
+  
+  main {
+    position: relative;
+    top: 103px;
+  }
+  
+  #notification-div {
+    position: absolute;
+    top: 10px;
+    left: 5%;
+  }

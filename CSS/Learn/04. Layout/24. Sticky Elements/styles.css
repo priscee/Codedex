@@ -1,0 +1,13 @@
+header, section > h2 {
+    position: sticky;
+  }
+  
+  header {
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  section > h2 {
+    top: 103px;
+  }

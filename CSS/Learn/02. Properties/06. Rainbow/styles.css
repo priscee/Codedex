@@ -1,0 +1,11 @@
+#first-color {
+    color: rgb(255, 0, 0); /*rgb*/
+  }
+  
+  #second-color {
+    color: #4B0082; /*hex*/
+  }
+  
+  #third-color {
+    color: blue; /*name*/
+  }

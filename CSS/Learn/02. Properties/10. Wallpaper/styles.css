@@ -1,0 +1,13 @@
+#outer {
+    width: 500px;
+    height: 500px;
+    background-color: #000000;
+  }
+  
+  #inner {
+    width: 400px;
+    height: 400px;
+    background-image: url('https://i.redd.it/uj46qikdjkm71.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }

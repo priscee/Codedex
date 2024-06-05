@@ -1,0 +1,241 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+header {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 33px 10%;
+    background: #ffffff;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+header h1 {
+    font-family: 'Poppins', san-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.navlist {
+    display: flex;
+}
+
+.navlist a {
+    font-family: 'Roboto Mono', monospace;
+    color: #000000;
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: 300;
+    border-bottom: 2px solid transparent;
+    transition: all .55s ease;
+}
+
+.navlist a:hover {
+    color: #f00a5e;
+    border-bottom: 1px dotted #f00a5e;
+}
+
+section {
+    padding: 0 10%;
+}
+
+.home {
+    height: 100%;
+    width: 100%;
+    min-height: 50vh;
+    position: relative;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    align-items: center;
+    vertical-align: middle;
+    gap: 2rem;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+.home-h1 h1 {
+    font-family: 'Poppins', san-serif;
+    font-size: 80px;
+    font-weight: 900;
+    color: #000000;
+}
+
+.home-p p {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    font-weight: 300;
+    color: gray;
+}
+
+.about {
+    height: 100%;
+    width: 100%;
+    min-height: 20vh;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.about-title {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+img {
+    display: block;
+    max-width: 5%;
+    height: auto;
+    gap: 2rem;
+}
+
+.round-pic {
+    border-radius: 9999px;
+}
+
+.about-title span {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    padding-left: 15px;
+}
+
+.about-text p {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    font-weight: 300;
+    padding-bottom: 20px;
+}
+
+button {
+    background-color: #111827;
+    border-radius: 4rem;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: .5rem .8rem;
+    text-align: center;
+    width: auto;
+}
+
+button:hover {
+  background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 45%, #FC4F4F 80%, #f00a5e 100%);
+   animation: slidebg 5s linear infinite; 
+}
+
+.about-resume span {
+    font-family: 'Poppins', sans-serif;
+    font-size: 120%;
+    z-index: 10;
+}
+
+.portfolio {
+    height: 100%;
+    width: 100%;
+    min-height: 40vh;
+    position: relative;
+    line-height: 1;
+}
+
+.portfolio-title h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.portfolio-title span {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    font-weight: 200;
+    padding-bottom: 10px;
+}
+
+.portfolio-works div {
+    display: block;
+    height: 100px;
+    width: 100%;
+    padding: 30px 0;
+}
+
+.portfolio-works h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+
+.portfolio-works span {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.contact {
+    height: 100%;
+    width: 100%;
+    min-height: 15vh;
+    position: relative;
+    line-height: 1;
+}
+
+.contact-text h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.contact-button span {
+    font-family: 'Poppins', sans-serif;
+    font-size: 120%;
+    z-index: 10;
+}
+
+.foot {
+    width: 100%;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 10%;
+    border-top: 1px solid rgb(229, 231, 235);
+}
+
+.foot p {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 10px;
+    font-size: 300;
+}
+
+.foot-links {
+    display: flex;
+}
+
+.foot-links a {
+    font-family: 'Roboto Mono', monospace;
+    color: #000000;
+    margin-left: 40px;
+    font-size: 10px;
+    font-weight: 300;
+    border-bottom: 2px solid transparent;
+}
+
+.foot-links a:hover {
+    color: #f00a5e;
+    border-bottom: 1px dotted #f00a5e;
+}

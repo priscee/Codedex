@@ -1,0 +1,49 @@
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  nav a {
+    width: 33%;
+    border: 1px solid seashell;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  main {
+    margin-top: 20px;
+  }
+  
+  section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #welcome > p {
+    margin-left: 5em;
+    margin-right: 5em;
+  }
+  
+  #catalog-input, #form-btn {
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 800;
+    padding: 8px;
+  }
+  
+  #catalog-input {
+    border: 2px solid;
+    width: 37.5%;
+  }
+  
+  #staff-picks {
+    text-align: center;
+  }
+  
+  #staff-pick-img {
+    border: 1px solid;
+    border-radius: 0 7px 7px 0;
+    width: 10em;
+    height: 15em;
+  }

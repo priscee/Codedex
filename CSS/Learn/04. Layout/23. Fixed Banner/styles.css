@@ -1,0 +1,12 @@
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  #notification-div {
+    position: fixed;
+    top: 100px;
+    left: 15px;
+    z-index: 1;
+  }
