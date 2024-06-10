@@ -37,12 +37,12 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 | [Modules](https://github.com/priscee/Codedex/tree/main/Python/Learn/The%20Legend%20of%20Python/08.%20Modules) |  |  |
 | [Final Project](https://github.com/priscee/Codedex/tree/main/Python/Learn/The%20Legend%20of%20Python/Final%20Project) |  |  |
 
-<span href="https://drive.google.com/file/d/1-I0p1T5Q5o19ljpFz9WroZ93BsWGMcJ2/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1-I0p1T5Q5o19ljpFz9WroZ93BsWGMcJ2/view?usp=sharing" target="_blank">
    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=45&lines=Certificate: " alt="Typing SVG"/>
       <a>
          <img src="https://github.com/priscee/Codedex/assets/85870933/d4cc38c7-d7ff-4df7-97ec-f41a987428c8" alt="python" width=50px height=50px>
       </a>
-</span>
+</a>
 
 
 ![rainbow_divider](https://github.com/priscee/priscee/assets/85870933/66ce3aeb-6251-488d-9616-26c4bd8eacb6)
@@ -54,12 +54,12 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 
 <br>
 
-<span href="https://drive.google.com/file/d/1xdeabjwg5oASGPovf26Lo-ttwqHi3Dw2/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1xdeabjwg5oASGPovf26Lo-ttwqHi3Dw2/view?usp=sharing"target="_blank">
    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=45&lines=Certificate: " alt="Typing SVG"/>
       <a>
          <img src="https://github.com/priscee/Codedex/assets/85870933/96faa305-e0c0-4f5d-a244-17964a585f1f" alt="html" width=50px height=50px>
       </a>
-</span>
+</a>
 
 ![rainbow_divider](https://github.com/priscee/priscee/assets/85870933/66ce3aeb-6251-488d-9616-26c4bd8eacb6)
 
@@ -70,12 +70,12 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 
 <br>
 
-<span href="">
+<a href="" target="_blank">
    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=180&height=45&lines=Certificate: (WIP)" alt="Typing SVG"/>
       <a>
         <img src="https://github.com/priscee/Codedex/assets/85870933/67592c57-730b-45c0-8159-3ceb8e959261" alt="css" width=50px height=50px>
      </a>
-</span>
+</a>
 
 ![rainbow_divider](https://github.com/priscee/priscee/assets/85870933/66ce3aeb-6251-488d-9616-26c4bd8eacb6)
 
@@ -86,9 +86,9 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 
 <br>
 
-<span href="">
+<a href="" target="_blank">
    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=180&height=45&lines=Certificate: (WIP)" alt="Typing SVG"/>
       <a>
          <img src="https://github.com/priscee/Codedex/assets/85870933/c1d85e09-3159-436f-b217-98484b97e8b9" alt="javascript" width=50px height=50px>
       </a>
-</span>
+</a>
