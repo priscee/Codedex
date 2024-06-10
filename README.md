@@ -71,7 +71,7 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 <br>
 
 <span href="">
-   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=45&lines=Certificate: " alt="Typing SVG"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=180&height=45&lines=Certificate: (WIP)" alt="Typing SVG"/>
       <a>
         <img src="https://github.com/priscee/Codedex/assets/85870933/67592c57-730b-45c0-8159-3ceb8e959261" alt="css" width=50px height=50px>
      </a>
@@ -87,7 +87,7 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 <br>
 
 <span href="">
-   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=45&lines=Certificate: " alt="Typing SVG"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=180&height=45&lines=Certificate: (WIP)" alt="Typing SVG"/>
       <a>
          <img src="https://github.com/priscee/Codedex/assets/85870933/c1d85e09-3159-436f-b217-98484b97e8b9" alt="javascript" width=50px height=50px>
       </a>
