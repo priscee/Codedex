@@ -54,7 +54,7 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 
 <br>
 
-<a href="https://drive.google.com/file/d/1xdeabjwg5oASGPovf26Lo-ttwqHi3Dw2/view?usp=sharing"target="_blank">
+<a href="https://drive.google.com/file/d/1xdeabjwg5oASGPovf26Lo-ttwqHi3Dw2/view?usp=sharing" target="_blank">
    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=45&lines=Certificate: " alt="Typing SVG"/>
       <a>
          <img src="https://github.com/priscee/Codedex/assets/85870933/96faa305-e0c0-4f5d-a244-17964a585f1f" alt="html" width=50px height=50px>
