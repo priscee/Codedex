@@ -87,8 +87,8 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 <br>
 
 <a>
-   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=180&height=40&lines=Certificate: (WIP)" alt="Typing SVG"/>
-      <a href="" target="_blank">
+   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=40&lines=Certificate: " alt="Typing SVG"/>
+      <a href="https://drive.google.com/file/d/1Bukt_qEEsA93S5DZCCioKIghovdQvgbO/view?usp=sharing" target="_blank">
          <img src="https://github.com/priscee/Codedex/assets/85870933/c1d85e09-3159-436f-b217-98484b97e8b9" alt="javascript" width=50px height=50px>
       </a>
 </a>
