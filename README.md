@@ -54,6 +54,14 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 
 <br>
 
+| <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=1&pause=99999&vCenter=true&color=4FDBFFFF&random=false&width=310&height=45&lines=The+Origins+I+:+HTML" alt="Typing SVG"/> |
+|:---|
+| [01. Elements](https://github.com/priscee/Codedex/tree/main/HTML/Learn/The%20Origins%20I%3A%20HTML/01.%20Elements) |
+| [02. Structure](https://github.com/priscee/Codedex/tree/main/HTML/Learn/The%20Origins%20I%3A%20HTML/02.%20Structure) |
+| [03. Forms](https://github.com/priscee/Codedex/tree/main/HTML/Learn/The%20Origins%20I%3A%20HTML/03.%20Forms) |
+| [04. Semantic HTML](https://github.com/priscee/Codedex/tree/main/HTML/Learn/The%20Origins%20I%3A%20HTML/04.%20Semantic%20HTML) |
+| [Final Project](https://github.com/priscee/Codedex/tree/main/HTML/Learn/The%20Origins%20I%3A%20HTML/Final%20Project) |
+
 <a>
    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=40&lines=Certificate: " alt="Typing SVG"/>
       <a href="https://drive.google.com/file/d/1xdeabjwg5oASGPovf26Lo-ttwqHi3Dw2/view?usp=sharing" target="_blank">
@@ -70,6 +78,14 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 
 <br>
 
+| <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=1&pause=99999&vCenter=true&color=4FDBFFFF&random=false&width=310&height=45&lines=The+Origins+II+:+CSS" alt="Typing SVG"/> |
+|:---|
+| [01. Selectors](https://github.com/priscee/Codedex/tree/main/CSS/Learn/01.%20Selectors) |
+| [02. Properties](https://github.com/priscee/Codedex/tree/main/CSS/Learn/02.%20Properties) |
+| [03. Box Model](https://github.com/priscee/Codedex/tree/main/CSS/Learn/03.%20Box%20Model) |
+| [04. Layout](https://github.com/priscee/Codedex/tree/main/CSS/Learn/04.%20Layout) |
+| [Final Project](https://github.com/priscee/Codedex/tree/main/CSS/Learn/Final%20Project) |
+
 <a>
    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=40&lines=Certificate: " alt="Typing SVG"/>
       <a href="https://drive.google.com/file/d/1o7UKZSOc-7kr2lx4KjcrXfzaE9jVXfoF/view?usp=sharing" target="_blank">
@@ -85,6 +101,19 @@ You'll get to witness the projects I've completed for each syllabus. I hope you'
 </a>
 
 <br>
+
+| <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=1&pause=99999&vCenter=true&color=4FDBFFFF&random=false&width=450&height=45&lines=The+Origins+III+:+Javascript" alt="Typing SVG"/> |
+|:---|
+| [01. The Console](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/01.%20The%20Console) |
+| [02. Variables](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/02.%20Variables) |
+| [03. Conditionals](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/03.%20Conditionals) |
+| [04. Loops](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/04.%20Loops) |
+| [Checkpoint: FizzBuzz](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/Checkpoint/Fizz%20Buzz) |
+| [05. Arrays](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/05.%20Arrays) |
+| [06. Functions](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/06.%20Functions) |
+| [07. Objects](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/07.%20Objects) |
+| [08. Trifects](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/08.%20Trifects) |
+| [Final Project](https://github.com/priscee/Codedex/tree/main/Javascript/Learn/The%20Origins%20III%5C%20Javascript/Final%20Project) |
 
 <a>
    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=99999&vCenter=true&color=F535AA&random=false&width=120&height=40&lines=Certificate: " alt="Typing SVG"/>
